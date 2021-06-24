@@ -1,0 +1,8 @@
+/media/margery/b44160de-00cb-402a-ba45-d81240edf8a4/DeepLearningDemo/CE-Net/weights/best_model.pth filter=lfs diff=lfs merge=lfs -text
+weights/best_model.pth filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/ce/98/ce98027fe587914149ab25f5b44c295bf94e84e1622cf357f80fcea36d345628 filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-5630400587df5e8c57becc2dc711b0da7d38a305.pack filter=lfs diff=lfs merge=lfs -text
+best_model.pth filter=lfs diff=lfs merge=lfs -text
+weights/CE-Net.th filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="ec9608bc-cda6-46f9-9c71-2d8f6e7447fd" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="70598ec8-9c57-4888-83bd-1b65e8e83df6" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="a5e4f430-d877-40e7-a30f-1bb754e3c182" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="13afbc55-c69f-45f6-9abb-2e9779b65979" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="9c9ea5b5-773a-4a76-8774-0d8ab3460bb1" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="a745aea0-bad8-4892-b885-2822e5883825" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="f48b6e86-5ee1-43f2-92dc-13531c7f1c5b" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="bbb899a2-1bf5-42d0-b5ba-5345c607ef97" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="23759d7f-1e31-4ee6-85a2-132204704fab" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="bb4a3a75-7ce2-4b51-8559-f48195200b33" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="088fc77f-1b70-4384-aa7f-57f230d639e9" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="2da2a66d-0710-4755-8a1f-dc4d8c261398" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="3e0348c7-16c8-462e-8871-7822dfbf655e" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="151f252b-5315-4eab-951f-4ed17babc4de" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="b52fc46b-8d37-49bc-91b0-e5ad6ef501c5" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="b7113d16-c3ea-4c8a-81f6-2548024d8027" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="ec323982-4881-4ba0-8315-084c6f21872d" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="d14891ac-dae3-4ad0-b99d-a720243f0403" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="055b8046-54d1-42dc-b790-e2e24dc4a182" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="889edd5c-a0bd-4cb8-ad36-f0f614bf8c62" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="b0f1a959-905f-4640-973f-f93392c132ee" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="f0a8a9b8-fd05-4ba5-992f-667b95bd2625" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="fcce2e81-7c9c-48e4-a0f0-27c72f234a68" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="8c026799-8fb0-4c6b-863f-f31de903d144" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="378f0f5c-094d-46f5-abc6-f073a60d46d4" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="3bfb1328-e7da-48d6-af75-3013c1ccf1f2" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="46dfc9d8-155d-4eac-a8dc-b155759e2c56" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="7bca28d6-a864-48b0-9f98-883ef019cc1f" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="0d184cfd-76be-49f0-b151-bf3628d64aaa" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="a93aafef-71a7-4579-9507-3eb0c37834cb" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="916bf48b-2e0d-454a-aedb-a5a2d5cc2bf2" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="26909f04-c94f-4111-b838-ff501f17c506" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="dda13c2c-7cb3-49ea-a144-c8a6acd8bb0f" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="3ff3661e-dce7-4620-8625-2f78a8d4613b" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="9f8fd536-e32a-4950-8d32-73c88cf6a499" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="00fa983c-ca7e-42d6-bb8f-1164aa0943f4" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="63601deb-9948-4772-b2e1-b028b5e2a98d" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="7bdb009b-96e7-4e6b-884f-6cb133b8c6d8" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="6e7e2be3-a1ab-4899-8aee-8a6363158d76" port="22" customName="ustc" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.20.45.222" id="112da794-0114-4677-8410-82773d4c1597" port="22" customName="ustc" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</project>
